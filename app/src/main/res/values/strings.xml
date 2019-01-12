@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Room DB</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_password">Password</string>
+    <string name="label_user_name">User Name</string>
+    <string name="label_add_user">Add User</string>
+    <string name="label_delete_user">Delete User</string>
+    <string name="label_view_user">View User</string>
+    <string name="label_error_user_name">Please enter your user name</string>
+    <string name="label_error_password">Please enter your password</string>
+    <string name="label_valid_username_password">please enter valid username and password</string>
+    <string name="label_admin">ADMIN</string>
+    <string name="label_place">place</string>
+    <string name="label_erroe_place">Please enter your place</string>
+</resources>
